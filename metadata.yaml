@@ -1,0 +1,44 @@
+_repo: Birds-of-Heaven-and-Other-Stories_60256
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Manning, Clarence Augustus
+    alias: Manning, K. A.
+    birthdate: 1893
+    deathdate: 1972
+    gutenberg_agent_id: '50870'
+    url: http://www.gutenberg.org/2009/agents/50870
+    wikipedia: https://en.wikipedia.org/wiki/Clarence_Manning
+creator:
+  author:
+    agent_name: Korolenko, Vladimir Galaktionovich
+    aliases:
+    - Korolenko, V. G. (Vladimir Galaktionovich)
+    - Korolyenko, Vladimir Galaktionovich
+    - Короленко, Владимир Галактионович
+    - Korolenko, V. H.
+    - Korolenko, W. G.
+    birthdate: 1853
+    deathdate: 1921
+    gutenberg_agent_id: '5088'
+    url: http://www.gutenberg.org/2009/agents/5088
+    wikipedia: http://en.wikipedia.org/wiki/Vladimir_Korolenko
+description: ''
+gutenberg_issued: '2019-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60256'
+  lccn: '19015737'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Korolenko, Vladimir Galaktionovich, 1853-1921 -- Translations into English'
+- !lcc 'PG'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: Birds of heaven -- Isn't it terrible? -- "Necessity" -- On the Volga
+  -- The village of God.
+title: Birds of Heaven, and Other Stories
+url: http://www.gutenberg.org/ebooks/60256
